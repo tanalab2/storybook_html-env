@@ -12,6 +12,6 @@
 
 ## SCSS
 
-``` css
+``` scss
 #include "./hoge.scss"
 ```
